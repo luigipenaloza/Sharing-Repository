@@ -1,2 +1,2 @@
 # sharing-repository
-MS Data Science Class Projects
+MS Data Science Class Projects.
